@@ -20,7 +20,7 @@ const Room = () => {
          {
            name: 'Personal link',
            url:
-           `https://cloud-chat-ten.vercel.app/room/${id}`
+           `http://localhost:5173/room/${id}`
          },
        ],
        scenario: {
